@@ -41,22 +41,26 @@ Homely/
 │── screenshots/           # Project screenshots for README
 
 📸 Screenshots
-### Landing Page
-![Homely Screenshot 1](screenshots/homely_screenshot_1.jpg)
+### 1️⃣ Landing Page
+![Landing Page](Home.png)
 
-### Exclusive & Trending Places
-![Homely Screenshot 2](screenshots/homely_screenshot_2.jpg)
-![Homely Screenshot 3](screenshots/homely_screenshot_3.jpg)
+### 2️⃣ Exclusive & Trending Places
+![Exclusives and Trending](ExclusivesandTrendingplaces.png)
 
-### Property Details
-![Homely Screenshot 4](screenshots/homely_screenshot_4.jpg)
-![Homely Screenshot 5](screenshots/homely_screenshot_5.jpg)
+### 3️⃣ Property Details Page with Map & Reviews
+![Map and Reviews](MapandReviews.png)
 
-### Listing Page
-![Homely Screenshot 6](screenshots/homely_screenshot_6.jpg)
-![Homely Screenshot 7](screenshots/homely_screenshot_7.jpg)
+### 4️⃣ Recommended Listings
+![Recommendation](Recommedation.png)
 
+### 5️⃣ Listings with Pagination
+![Next Page](Next.png)
 
+### 6️⃣ Places Section
+![Places](Places.png)
+
+### 7️⃣ Footer & About Section
+![Footer](Footer.png)
 
 💻 Getting Started
 Clone this repository
